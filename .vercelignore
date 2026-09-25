@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+run.bat
+server.py
+static/
+.git
+.vscode

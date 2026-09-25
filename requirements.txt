@@ -1,0 +1,2 @@
+# Zero external dependencies required for Vercel Serverless Function
+# api/index.py uses Python standard library for maximum speed and 0 build errors
