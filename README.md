@@ -205,9 +205,6 @@ Configured via `vercel.json`:
 
 ---
 
-## 👤 Author & Credits
-
-* **Created & Replicated by**: Praveen Tripathi
 * **Project**: StraddleEDGE Institutional Analytics
 
 ---
