@@ -31,11 +31,11 @@ This repository is **100% pre-configured and optimized** for instant deployment 
    git add .
    git commit -m "Deploy StraddleEDGE on Vercel"
    ```
-2. Create a new repository on your GitHub account (e.g. `straddleedge`).
+2. Create a new repository on your GitHub account (`Straddle-Edge`).
 3. Push to GitHub:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/straddleedge.git
+   git remote add origin https://github.com/praveen37x/Straddle-Edge.git
    git push -u origin main
    ```
 4. In your [Vercel Dashboard](https://vercel.com/dashboard):

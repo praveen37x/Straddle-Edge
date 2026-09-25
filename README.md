@@ -157,8 +157,8 @@ run.bat
 ### Option B: Manual CLI Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/straddleedge.git
-   cd straddleedge
+   git clone https://github.com/praveen37x/Straddle-Edge.git
+   cd Straddle-Edge
    ```
 2. Install local server dependencies:
    ```bash
